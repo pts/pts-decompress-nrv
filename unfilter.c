@@ -1,5 +1,5 @@
 /*
- * unfilter.c: educational C code for UPX pre-decompression filters
+ * unfilter.c: educational C code for UPX post-decompression filters
  * by pts@fazekas.hu at Wed May 16 15:06:28 CEST 2018
  *
  * This C code compiles, otherwise it is untested!
